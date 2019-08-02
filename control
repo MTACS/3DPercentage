@@ -1,0 +1,12 @@
+Package: com.mtac.3dpercentage
+Name: 3DPercentage
+Depends: mobilesubstrate
+Version: 1.0.3
+Architecture: iphoneos-arm
+Description: View your battery percentage from Settings 3D Touch platter
+Maintainer: MTAC
+Author: MTAC
+Depiction: https://repo.mtac.app/depiction/web/com.mtac.3dpercentage.html
+Moderndepiction: https://repo.mtac.app/depiction/native/com.mtac.3dpercentage.json
+Sileodepiction: https://repo.mtac.app/depiction/native/com.mtac.3dpercentage.json
+Section: Tweaks
